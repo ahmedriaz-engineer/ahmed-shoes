@@ -1,0 +1,38 @@
+.nav-img{
+    width: 200px;
+    height: 100px;
+    border-radius: 10px;
+    
+}
+.navbar-brand-name{
+    font-size: 50px;
+    font-weight: 700;
+    height: 100px;
+}
+
+span{
+    font-size: 30px;
+}
+.text-highlight{
+    color: #fa804c;
+}
+.col-7 img{
+    width: 100%;
+}
+.learn-more {
+    font-size: small;
+    text-decoration: none;
+    display: inline-block;
+    
+}
+.icon{
+    font-size: 80px;
+    color: #fa804c;
+}
+.details{
+    font-size: larger;
+    color: #fa804c;
+}
+
+
+
