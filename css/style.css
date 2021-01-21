@@ -5,7 +5,7 @@
     
 }
 .navbar-brand-name{
-    font-size: 50px;
+    font-size: larger;
     font-weight: 700;
     height: 100px;
 }
@@ -32,6 +32,15 @@ span{
 .details{
     font-size: larger;
     color: #fa804c;
+}
+.buttons{
+    background-color:#fa804c;
+    color: white;
+    height: 40px;
+    font-size: large;
+    border: 0;
+    border-radius: 5px;
+    
 }
 
 
